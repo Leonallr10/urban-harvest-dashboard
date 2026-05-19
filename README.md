@@ -78,3 +78,5 @@ src/
 ## Login Credentials
 
 Any email/password combination will work (mock authentication).
+Email: admin@urbanharvest.com
+Password: password123
